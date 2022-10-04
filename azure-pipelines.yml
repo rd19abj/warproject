@@ -22,3 +22,5 @@ steps:
     goals: 'package'
 
     Added a file without commit in vscode
+
+    yes
